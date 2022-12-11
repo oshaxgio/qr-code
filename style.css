@@ -9,7 +9,6 @@
     }
     .sector {
         height: 750px;
-        max-width: 1440px;
         display: flex;
         align-items: center;
         justify-content: center;
